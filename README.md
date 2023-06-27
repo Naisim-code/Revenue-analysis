@@ -1,2 +1,2 @@
-# Modeltraining
-Training a model to recognize a handwritten character to enable reading hand written cheques for example
+# Analysis-for-revenue
+To understand how the imposed tax will affect the revenue
